@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Skater 3D",
+"productVersion": "0.1",
+"dataUrl": "BAEG Runner.data.unityweb",
+"wasmCodeUrl": "BAEG Runner.wasm.code.unityweb",
+"wasmFrameworkUrl": "BAEG Runner.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
